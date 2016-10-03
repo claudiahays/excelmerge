@@ -2,6 +2,8 @@
 #
 # Claudia Bittmann September 2016
 #
+# Email: coding.claudia@gmail.com
+#
 # This program pulls in excel files from a specific folder
 # and merges them all into a single dataframe and exports the df to a csv
 # using python and the below imported modules.
